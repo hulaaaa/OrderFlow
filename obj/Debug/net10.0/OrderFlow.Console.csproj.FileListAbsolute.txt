@@ -1,0 +1,15 @@
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/bin/Debug/net10.0/OrderFlow.Console
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/bin/Debug/net10.0/OrderFlow.Console.deps.json
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/bin/Debug/net10.0/OrderFlow.Console.runtimeconfig.json
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/bin/Debug/net10.0/OrderFlow.Console.dll
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/bin/Debug/net10.0/OrderFlow.Console.pdb
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.AssemblyInfoInputs.cache
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.AssemblyInfo.cs
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.csproj.CoreCompileInputs.cache
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.sourcelink.json
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.dll
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/refint/OrderFlow.Console.dll
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.pdb
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/OrderFlow.Console.genruntimeconfig.cache
+/Users/dmytro.hu/OrderFlow/OrderFlow.Console/obj/Debug/net10.0/ref/OrderFlow.Console.dll
